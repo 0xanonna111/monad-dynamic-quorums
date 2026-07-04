@@ -1,0 +1,10 @@
+{
+  "name": "monad-dynamic-quorums",
+  "version": "1.0.0",
+  "description": "Simulation engine for adaptive validator quorums and BLS threshold tracking in MonadBFT",
+  "main": "runQuorumSimulation.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5"
+  }
+}
